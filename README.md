@@ -1,2 +1,1 @@
-This repository contains the code and files related to the ESCGT project.  
-More updates and documentation will be added soon.
+This repository contains the code and implementation used in the research study titled: "Enhanced Sparse Cross-spatial attentive Graph Transformer for ADHD Detection"
